@@ -1,0 +1,15 @@
+{
+  "name": "google-assistant",
+  "version": "1.0.0",
+  "description": "Extends the Google Assistant to Ubuntu Desktop",
+  "main": "index.js",
+  "repository": "https://github.com/maxchehab/google-assistant",
+  "author": "Max Chehab <maxchehab@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "sh start.sh"
+  },
+  "dependencies": {
+    "google-assistant-node": "^0.0.12"
+  }
+}
